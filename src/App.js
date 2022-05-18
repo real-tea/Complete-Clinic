@@ -1,11 +1,16 @@
 import React from 'react';
 import Register from './components/Login/register'
-
-import { ColorModeSwitcher } from './ColorModeSwitcher';
+import {
+  BrowserRouter as Router,
+  Routes,
+  Route,
+} from "react-router-dom";
 
 function App() {
   return (
+    <Router>
       <Register/>
+    </Router>
   );
 }
 
