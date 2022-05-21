@@ -146,7 +146,7 @@ const Navbar = () => {
                             sx={{ flexGrow: 1, pt: 2, display: { xs: 'flex', md: 'none' } }}
                         >
                             <HealingTwoToneIcon
-                                fontSize='large' />  Health Haven Hospital
+                                fontSize='large' />  Asid Hospital
                         </Typography>
                         <Box sx={{ flexGrow: 1, display: { xs: 'none', md: 'flex' } }}>
 
