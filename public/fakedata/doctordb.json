@@ -1,0 +1,58 @@
+{
+    "docs": [
+        {
+            "doc_id": 1,
+            "name": "Akash Singh",
+            "specialize": "Cardiology",
+            "doc_img": "https://i.ibb.co/b6SDFTN/01.jpg"
+        },
+        {
+            "doc_id": 2,
+            "name": "Shanti Mishra",
+            "specialize": "Neurology",
+            "doc_img": "https://i.ibb.co/gW26qY2/02.jpg"
+        },
+        {
+            "doc_id": 3,
+            "name": "Saurabh Jain",
+            "specialize": "Orthopedics",
+            "doc_img": "https://i.ibb.co/hsyxYVj/03.jpg"
+        },
+        {
+            "doc_id": 4,
+            "name": "Upamanyu Wable",
+            "specialize": "Neurology",
+            "doc_img": "https://i.ibb.co/86xBJSh/04.jpg"
+        },
+        {
+            "doc_id": 5,
+            "name": "Hetang Kothadia",
+            "specialize": "Cardiology",
+            "doc_img": "https://i.ibb.co/hWD7NVx/05.jpg"
+        },
+        {
+            "doc_id": 6,
+            "name": "Aditya Srivastava",
+            "specialize": "Cardiology",
+            "doc_img": "https://i.ibb.co/hYWtLy1/06.jpg"
+        },
+        {
+            "doc_id": 7,
+            "name": "Siddharth Khatri",
+            "specialize": "Neurology",
+            "doc_img": "https://i.ibb.co/dPtTnys/07.jpg"
+        },
+        {
+            "doc_id": 8,
+            "name": "Shikhar Srivastava",
+            "specialize": "Orthopedics",
+            "doc_img": "https://i.ibb.co/ypmBR9k/08.jpg"
+        },
+        {
+            "doc_id": 9,
+            "name": "Ujjas M Thakker",
+            "specialize": "Medecine",
+            "doc_img": "https://i.ibb.co/nj8qcCS/09.jpg"
+        }
+    ]
+}
