@@ -24,10 +24,7 @@ const Root = styled('div')(({ theme }) => ({
 function Copyright(props) {
     return (
         <Typography variant="body2" color="text.secondary" align="center" {...props}>
-            {'Developed with 🖤 by '}
-            <strong><a className='text-style' href="https://github.com/Foy5al" target="_blank" rel="noreferrer noopener">Mohammd Foysal</a> </strong>{'Copyright ©'}
-            {new Date().getFullYear()}
-            {'.'}
+            
         </Typography>
     );
 }
