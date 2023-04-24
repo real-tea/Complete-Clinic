@@ -125,7 +125,7 @@ const Footer = () => {
                                     <GitHubIcon />
                                 </Avatar>
                                 <a className='text-style' href="https://github.com/real-tea" target="_blank" rel="noopener noreferrer" >
-                                    Akash
+                                    Divyansh
                                 </a>
                             </Stack >
 
@@ -137,7 +137,7 @@ const Footer = () => {
                                     <GitHubIcon />
                                 </Avatar>
                                 <a className='text-style' href="https://github.com/siddxharth" target="_blank" rel="noopener noreferrer" >
-                                   Siddharth
+                                   Aditya Singhvi
                                 </a>
                             </Stack >
 
