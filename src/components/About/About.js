@@ -26,7 +26,7 @@ const About = () => {
                     We think something between 8 to 9 out of 10 patients walks out of the hospital satisfied, but typical web reviews make hospitals look much worse. This negative bias in hospital reviews is a big deal because people are walking into their care journey with a negative mindset about the care they are going to get, and that’s not good. The scale is just off because of the motivated complainers.<br /><br />
 
                     Be sure to leave a review on <strong>asid hospital</strong> of any hospital you’ve visited, whether you’ve had a negative or a positive experience. Share your suggestions about writing hospital reviews in the comments below or message us on linkedin <a href="https://www.linkedin.com/in/akash-singh-2729a2135/" target="_blank" rel="noopener noreferrer" >
-                        @Akash </a> and <a target = "blank" href = "https://www.linkedin.com/in/siddxharth/"> @Siddharth</a>
+                        @Divyansh </a> and <a target = "blank" href = "https://www.linkedin.com/in/siddxharth/"> @Aditya</a>
                     .
                     <br /><br /><br />
                 </Typography>
